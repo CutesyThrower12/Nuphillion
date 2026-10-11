@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "channel": "public",
+  "build_id": "public-20261011-515d0b43d928",
+  "display_version": "Nuphillion Public 2026.7.3",
+  "release_name": "Project Nuphillion — Public 2026.7.3 (Balance Patch v1.0.1)",
+  "published_utc": "2026-10-11T22:13:41.145504+00:00",
+  "package_url": "https://github.com/CutesyThrower12/Nuphillion/releases/download/public-20261011-515d0b43d928/moddedPatch.zip",
+  "package_sha256": "515d0b43d928609015ec939f836383a6084a343fc7e8748acd0ea01b039fc03d",
+  "package_size": 796149203,
+  "manifest_version": "1_11_2931_2",
+  "minimum_manager_version": "2026.10.11.3",
+  "release_notes": "### Project Nuphillion — Public 2026.7.3\n\n**Balance Patch v1.0.1 | Originally released July 3, 2026**\n\nThis release brings our existing Public build to GitHub Releases as part of the updated Nuphillion Manager distribution system.\n\nThe original Balance Patch v1.0.1 brought Project Nuphillion up to date with vanilla Halo Wars 2 balance changes, introduced custom audio support, improved Manager and custom video compatibility, and included balance and AI adjustments for Spartan Jacob and Ravakteus.\n\n### What's different with this distribution?\n\n- Public mod files are now distributed through GitHub Releases.\n- The updated Nuphillion Manager can download and verify the Public package automatically.\n- The Manager no longer needs to bundle the mod archive inside its executable.\n\n**Note:** This is a distribution refresh of the July 3 Public build, not a new gameplay update.\n\nThank you for continuing to support Project Nuphillion!\n",
+  "expires_utc": null,
+  "deprecated_utc": null
+}
