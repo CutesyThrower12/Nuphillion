@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "channel": "public",
+  "build_id": "public-20261012-193441-1d6f4e47",
+  "display_version": "1.0.1",
+  "release_name": "Nuphillion Public",
+  "published_utc": "2026-10-12T19:36:22.060555+00:00",
+  "package_url": "https://github.com/CutesyThrower12/Nuphillion/releases/download/public-20261012-193441-1d6f4e47/moddedPatch.zip",
+  "package_sha256": "515d0b43d928609015ec939f836383a6084a343fc7e8748acd0ea01b039fc03d",
+  "package_size": 796149203,
+  "manifest_version": "1_11_2931_2",
+  "minimum_manager_version": "2026.10.12.9",
+  "release_notes": "",
+  "expires_utc": null,
+  "deprecated_utc": null
+}
